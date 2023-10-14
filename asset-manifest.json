@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/projectgpt3/static/css/main.999f98f4.css",
+    "main.js": "/projectgpt3/static/js/main.f757bab5.js",
+    "static/media/ai.png": "/projectgpt3/static/media/ai.6940faf37c7d444f0620.png",
+    "static/media/possibility.png": "/projectgpt3/static/media/possibility.3557cf5c8ab7931faf12.png",
+    "static/media/blog01.png": "/projectgpt3/static/media/blog01.cefc0932eae0d33a0342.png",
+    "static/media/blog03.png": "/projectgpt3/static/media/blog03.d922323861096f25274f.png",
+    "static/media/blog04.png": "/projectgpt3/static/media/blog04.742c1357e7b6c11078e6.png",
+    "static/media/blog05.png": "/projectgpt3/static/media/blog05.bfaa1c1e3851158e0e1f.png",
+    "static/media/blog02.png": "/projectgpt3/static/media/blog02.ab0eb367561796e91532.png",
+    "static/media/people.png": "/projectgpt3/static/media/people.5cd2d6fbcd48bd63f106.png",
+    "static/media/logo.svg": "/projectgpt3/static/media/logo.5114679faa0cce74946769ded97f1c89.svg",
+    "index.html": "/projectgpt3/index.html",
+    "main.999f98f4.css.map": "/projectgpt3/static/css/main.999f98f4.css.map",
+    "main.f757bab5.js.map": "/projectgpt3/static/js/main.f757bab5.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.999f98f4.css",
+    "static/js/main.f757bab5.js"
+  ]
+}
